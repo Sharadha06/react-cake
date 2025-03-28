@@ -19,7 +19,7 @@ function Navbar({cart}){
                         </div>   
                         <Link to="/login" className={style.listitem}><BsPersonCircle className={style.BsPersonCircle}/></Link>
         </div>
-       </div>
+       </div>      
        </>
         );
 }

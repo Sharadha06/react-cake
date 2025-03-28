@@ -66,3 +66,5 @@ const handleclick=(symbol,item)=>{
 }
 
 export default Cart;
+
+
