@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-cake/static/css/main.8bc08cb3.css",
-    "main.js": "/react-cake/static/js/main.87889028.js",
+    "main.css": "/react-cake/static/css/main.39e59a31.css",
+    "main.js": "/react-cake/static/js/main.fdbecd7c.js",
     "static/media/Delicious1.gif": "/react-cake/static/media/Delicious1.ec43ba828f9b0bda0853.gif",
     "static/media/g4.jpg": "/react-cake/static/media/g4.fdc4d2d93e9eb9e1a3a9.jpg",
     "static/media/menu.jpg": "/react-cake/static/media/menu.0a239f003c6e2d4b165e.jpg",
@@ -31,11 +31,11 @@
     "static/media/mw4.jpg": "/react-cake/static/media/mw4.93541de790822ae49323.jpg",
     "static/media/piece.jpg": "/react-cake/static/media/piece.93f2c61b88ce26248eb5.jpg",
     "index.html": "/react-cake/index.html",
-    "main.8bc08cb3.css.map": "/react-cake/static/css/main.8bc08cb3.css.map",
-    "main.87889028.js.map": "/react-cake/static/js/main.87889028.js.map"
+    "main.39e59a31.css.map": "/react-cake/static/css/main.39e59a31.css.map",
+    "main.fdbecd7c.js.map": "/react-cake/static/js/main.fdbecd7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bc08cb3.css",
-    "static/js/main.87889028.js"
+    "static/css/main.39e59a31.css",
+    "static/js/main.fdbecd7c.js"
   ]
 }
