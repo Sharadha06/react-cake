@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/react-cake/static/css/main.39e59a31.css",
-    "main.js": "/react-cake/static/js/main.fdbecd7c.js",
+    "main.js": "/react-cake/static/js/main.414a190b.js",
     "static/media/Delicious1.gif": "/react-cake/static/media/Delicious1.ec43ba828f9b0bda0853.gif",
+    "static/media/2.jpg": "/react-cake/static/media/2.a20c9f243506902f0b62.jpg",
     "static/media/g4.jpg": "/react-cake/static/media/g4.fdc4d2d93e9eb9e1a3a9.jpg",
     "static/media/menu.jpg": "/react-cake/static/media/menu.0a239f003c6e2d4b165e.jpg",
     "static/media/wedding.jpg": "/react-cake/static/media/wedding.bf7b0bfe230da699afcc.jpg",
@@ -15,7 +16,6 @@
     "static/media/mic2.jpg": "/react-cake/static/media/mic2.ca7a6da0995ddc6d67fa.jpg",
     "static/media/mc2.jpg": "/react-cake/static/media/mc2.bf84be5832b3ceb1732a.jpg",
     "static/media/g5.jpg": "/react-cake/static/media/g5.aefd409bb405c0a06c75.jpg",
-    "static/media/2.png": "/react-cake/static/media/2.b0f159724aa00fe0e4ab.png",
     "static/media/mic1.jpg": "/react-cake/static/media/mic1.8c8d6abda866daf3ecff.jpg",
     "static/media/mw2.jpg": "/react-cake/static/media/mw2.6d30ef021233b3e9e903.jpg",
     "static/media/mw5.jpg": "/react-cake/static/media/mw5.7bfeaa9f502fddb8f4c4.jpg",
@@ -32,10 +32,10 @@
     "static/media/piece.jpg": "/react-cake/static/media/piece.93f2c61b88ce26248eb5.jpg",
     "index.html": "/react-cake/index.html",
     "main.39e59a31.css.map": "/react-cake/static/css/main.39e59a31.css.map",
-    "main.fdbecd7c.js.map": "/react-cake/static/js/main.fdbecd7c.js.map"
+    "main.414a190b.js.map": "/react-cake/static/js/main.414a190b.js.map"
   },
   "entrypoints": [
     "static/css/main.39e59a31.css",
-    "static/js/main.fdbecd7c.js"
+    "static/js/main.414a190b.js"
   ]
 }
